@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8a4ac82dd863b3f42af001361af3571",
+    "revision": "4eff3bcb5f9f633efbaabe59d956340b",
     "url": "/alamaison/index.html"
   },
   {
-    "revision": "cb771448a2d26156812e",
+    "revision": "d117d04ce0a1d949e96a",
     "url": "/alamaison/static/css/main.04e04f6a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alamaison/static/js/2.8626492a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb771448a2d26156812e",
-    "url": "/alamaison/static/js/main.f0678023.chunk.js"
+    "revision": "d117d04ce0a1d949e96a",
+    "url": "/alamaison/static/js/main.b06682ae.chunk.js"
   },
   {
     "revision": "6da23b1649424bb10cc0",
