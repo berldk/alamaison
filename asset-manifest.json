@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alamaison/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/alamaison/static/js/main.4c9223cd.chunk.js",
+    "main.js.map": "/alamaison/static/js/main.4c9223cd.chunk.js.map",
+    "runtime-main.js": "/alamaison/static/js/runtime-main.51c08830.js",
+    "runtime-main.js.map": "/alamaison/static/js/runtime-main.51c08830.js.map",
+    "static/js/2.8626492a.chunk.js": "/alamaison/static/js/2.8626492a.chunk.js",
+    "static/js/2.8626492a.chunk.js.map": "/alamaison/static/js/2.8626492a.chunk.js.map",
+    "index.html": "/alamaison/index.html",
+    "precache-manifest.2d2ed3e00bf8452dac8256025ea7f2dd.js": "/alamaison/precache-manifest.2d2ed3e00bf8452dac8256025ea7f2dd.js",
+    "service-worker.js": "/alamaison/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/alamaison/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8626492a.chunk.js.LICENSE.txt": "/alamaison/static/js/2.8626492a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51c08830.js",
+    "static/js/2.8626492a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4c9223cd.chunk.js"
+  ]
+}
